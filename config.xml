@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
  xmlns:gap="http://phonegap.com/ns/1.0"
- id = "com.phonegap.app2"
+ id = "com.phonegap.app1"
  version= "1.0.0">
 
 <name> app2-2018 Datos Alumnos </name>
@@ -10,8 +10,8 @@
 Aplicacion que muestra los datos del Alumno
 </description>
 
-<author href="https://build.phonegap.com" email="Andrea.Varela.cbtis16@gmail.com">
-Andrea Coyotl Varela
+<author href="https://build.phonegap.com" email="Andres.Mendez.cbtis16@gmail.com">
+Catarino Andres Mendez Martinez
 </author>
 
 <!--Personaliza la aplicacion y plataforma -->
